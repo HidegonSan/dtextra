@@ -1,3 +1,5 @@
+# ***Check out some interesting data using `git log`***
+
 # Data Extraction
 
 ![image](https://user-images.githubusercontent.com/128390652/227253674-9ffe3603-f98f-47ca-816f-15afe38a6feb.png)
